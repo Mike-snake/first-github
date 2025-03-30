@@ -11,6 +11,8 @@ int main()
 	return 0;
 }
 
+
+
 int gugudan(int a)
 {
 	if (a <= 0)
